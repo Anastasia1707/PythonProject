@@ -1,4 +1,4 @@
 # PythonProject
 Python homework project IVC
 
-TODO: Add description here.
+The program manages employee information, credit card validation, routing number validation, and includes an Employee class
